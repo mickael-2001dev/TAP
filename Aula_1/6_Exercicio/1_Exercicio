@@ -1,0 +1,19 @@
+Crie um programa em Python:
+
+    Entrar o nome do funcionário.
+
+    Entrar o sobrenome do funcionário.
+
+    Entrar o valor dos últimos 12 salários.
+
+    Calcular a soma total dos salários.
+
+    Calcular a média salarial.
+
+    Calcular o imposto de renda pago pelo funcionário.
+
+    Apresentar o nome completo, a soma total dos últimos 12 salários, o imposto de renda pago pelo funcionário, a média salarial.
+
+O imposto de renda deve ser calculado sobre o total do valor dos 12 salários.  A tabela com os valores mensais e anuais encontra-se no link abaixo.
+
+http://idg.receita.fazenda.gov.br/acesso-rapido/tributos/irpf-imposto-de-renda-pessoa-fisica#c-lculo-anual-do-irpf
