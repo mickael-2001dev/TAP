@@ -1,0 +1,11 @@
+Complemente o programa da Aula_1 -> 6_Exercicio. Em conjunto com o valor do salário, solicite a entrada do valor gasto pelo funcionário durante o mês.
+
+Condições & Restrições
+
+Assuma que o valor sobrante foi guardado na poupança (caso exista).
+
+A poupança rende em média 0.5% ao mês.
+
+O funcionário não tinha nenhum valor guardado anteriormente.
+
+Calcule o valor disponível na poupança. Apresente em conjunto com as demais informações.

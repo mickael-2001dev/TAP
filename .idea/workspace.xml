@@ -21,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_Respota_Exercicio.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1_Respota_Exercicio.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Aula_1/6_Exercicio/1_Respota_Exercicio.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -71,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_Exercicio" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2_Exercicio" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Aula_2/2_Exercicio/2_Exercicio">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -127,6 +127,7 @@
         <option value="$PROJECT_DIR$/Aula_2/3_Decisions.py" />
         <option value="$PROJECT_DIR$/Aula_2/4_Iteration.py" />
         <option value="$PROJECT_DIR$/Aula_1/6_Exercicio/1_Respota_Exercicio.py" />
+        <option value="$PROJECT_DIR$/Aula_2/2_Exercicio/2_Exercicio" />
       </list>
     </option>
   </component>
@@ -670,14 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_2/2_Exercicio/2_Exercicio">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Aula_1/6_Exercicio/1_Exercicio">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -690,6 +683,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="85" lean-forward="false" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_2/2_Exercicio/2_Exercicio">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>
