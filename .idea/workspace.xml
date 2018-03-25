@@ -11,61 +11,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserClass.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula_3_1/UserClass.py">
+      <file leaf-file-name="funcoes_matematicas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/tap_ifsul_functions/funcoes_matematicas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula_3_1/main.py">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3_Exercicio" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula_3/4_Exercicio/3_Exercicio">
+      <file leaf-file-name="funcoes_matematicas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/funcoes_matematicas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funcoes_matematicas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/package/funcoes_matematicas.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="77" lean-forward="true" selection-start-line="0" selection-start-column="77" selection-end-line="0" selection-end-column="77" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula_3/1_Class/user_class.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/package/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_class.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Aula_3/3_DocString/user_class.py">
+      <file leaf-file-name="basicos.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/package/sub_package/basicos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula_3/2_Constructor/user_class.py">
+      <file leaf-file-name="uso_pacote.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/uso_pacote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uso_funcoes_matematicas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/uso_funcoes_matematicas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/Readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -87,11 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_Execution/3_Keyboard_Check.py" />
-        <option value="$PROJECT_DIR$/1_Execution/4_Calculadora_Media.py" />
-        <option value="$PROJECT_DIR$/3_Built_In_Functions/1_Functions.py" />
-        <option value="$PROJECT_DIR$/3_Built_In_Functions/2_Concatenations.py" />
-        <option value="$PROJECT_DIR$/4_Defined_Functions/2_Parameters.py" />
         <option value="$PROJECT_DIR$/4_Defined_Functions/3_Return_Value.py" />
         <option value="$PROJECT_DIR$/4_Defined_Functions/3_Return.py" />
         <option value="$PROJECT_DIR$/1_Execution/2_Keyboard_Input.py" />
@@ -130,6 +157,19 @@
         <option value="$PROJECT_DIR$/Aula_3_1/UserClass.py" />
         <option value="$PROJECT_DIR$/Aula_1/6_Exercicio/1_Exercicio" />
         <option value="$PROJECT_DIR$/Aula_3/4_Exercicio/3_Exercicio" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/funcoes_matematicas.py" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/uso_funcoes_matematicas.py" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/uso_funcoes_matematicas.py" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/Readme.txt" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/package/sub_package/basicos.py" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/uso_pacote.py" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/tap_ifsul_functions/funcoes_matematicas.py" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/tap_ifsul_functions/messages/funcoes_mensagens.py" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/tap_ifsul_functions/setup.py" />
+        <option value="$PROJECT_DIR$/Aula_3_Introduction_OOP/3_DocString/user_class.py" />
+        <option value="$PROJECT_DIR$/Aula_3_Introduction_OOP/1_Class/user_class.py" />
+        <option value="$PROJECT_DIR$/Aula_3_Introduction_OOP/teste.py" />
+        <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/setup.py" />
       </list>
     </option>
   </component>
@@ -155,8 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,25 +204,56 @@
             </path>
             <path>
               <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAP" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_3_Introduction_OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAP" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_4_Modules_Packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAP" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_4_Modules_Packages" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAP" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_4_Modules_Packages" type="462c0819:PsiDirectoryNode" />
+              <item name="package" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAP" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_4_Modules_Packages" type="462c0819:PsiDirectoryNode" />
+              <item name="package" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_package" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_4_Modules_Packages\tap_ifsul_functions" />
+      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_4_Modules_Packages\2_Package" />
       <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_3_1" />
       <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_3\4_Import\users" />
       <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_3\4_Imports\users" />
-      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_3\3_DocString" />
-      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_3\2_Constructor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_3\4_Import" />
@@ -206,74 +275,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.teste">
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_3/4_Import/users" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_3_Introduction_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TAP" />
-      <option name="SCRIPT_NAME" value="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_3\4_Import\main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_3_Introduction_OOP/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="user_class (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_3/4_Import" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_3_Introduction_OOP/1_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TAP" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_3/4_Import/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_3_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TAP" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_3_1/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_3/4_Exercicio" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TAP" />
-      <option name="SCRIPT_NAME" value="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_3\4_Exercicio\Exercicio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_3_Introduction_OOP/1_Class/user_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,31 +319,67 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_3/3_DocString" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_3_Introduction_OOP/3_DocString" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TAP" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_3/3_DocString/user_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_3_Introduction_OOP/3_DocString/user_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="uso_funcoes_matematicas (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_4_Modules_Packages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TAP" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_4_Modules_Packages/uso_funcoes_matematicas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="uso_pacote" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_4_Modules_Packages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TAP" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_4_Modules_Packages/uso_pacote.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.main (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main (3)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main (4)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.user_class" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main" />
+      <item index="0" class="java.lang.String" itemvalue="Python.uso_funcoes_matematicas (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.uso_pacote" />
+      <item index="2" class="java.lang.String" itemvalue="Python.user_class" />
+      <item index="3" class="java.lang.String" itemvalue="Python.user_class (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.teste" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="0" class="java.lang.String" itemvalue="Python.teste" />
+        <item index="1" class="java.lang.String" itemvalue="Python.user_class (1)" />
         <item index="2" class="java.lang.String" itemvalue="Python.user_class" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.uso_pacote" />
+        <item index="4" class="java.lang.String" itemvalue="Python.uso_funcoes_matematicas (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -333,18 +402,18 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22395833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20416667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.374868" sideWeight="0.5104167" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.374868" sideWeight="0.48958334" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39176345" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10348469" sideWeight="0.4875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3968504" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39598733" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -362,183 +431,81 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Aula_2/1_Basics/1_Logical_Operator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_2/1_Basics/4_Iteration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/4_Defined_Functions/3_Return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/6_Exercicio/1_Exercicio">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/6_Exercicio/1_Respota_Exercicio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="77" lean-forward="false" selection-start-line="65" selection-start-column="77" selection-end-line="65" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/4_Defined_Functions/3_Return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/6_Exercicio/1_Exercicio">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="79" lean-forward="false" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/4_Defined_Functions/3_Return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/6_Exercicio/1_Exercicio">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="79" lean-forward="false" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/4_Defined_Functions/3_Return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/6_Exercicio/1_Exercicio">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="79" lean-forward="false" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/4_Defined_Functions/3_Return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/4_Defined_Functions/3_Return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/1_Execution/2_Keyboard_Input.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/1_Execution/2_Keyboard_Input.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/1_Execution/3_Keyboard_Check.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/1_Execution/3_Keyboard_Check.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/1_Execution/4_Calculadora_Media.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/1_Execution/4_Calculadora_Media.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/2_Variables/1_Data_Types.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/2_Variables/1_Data_Types.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/3_Built_In_Functions/1_Functions.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/3_Built_In_Functions/1_Functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/3_Built_In_Functions/2_Concatenation.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/3_Built_In_Functions/2_Concatenation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/1_Execution/1_Message.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/1_Execution/1_Message.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/4_Defined_Functions/2_Parameters.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/4_Defined_Functions/2_Parameters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/4_Defined_Functions/1_Simple_Function.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/4_Defined_Functions/1_Simple_Function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/4_Defined_Functions/3_Return.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/4_Defined_Functions/3_Return.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Aula_2/test.py" />
-    <entry file="file://$PROJECT_DIR$/Aula_2/1_Basics/1_Logical_Operator.py">
+    <entry file="file://$PROJECT_DIR$/Aula_2_Basics/1_Basics/1_Logical_Operator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,202 +516,171 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_2/1_Basics/2_Equality_Operators.py">
+    <entry file="file://$PROJECT_DIR$/Aula_2_Basics/1_Basics/2_Equality_Operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_2/1_Basics/3_Decisions.py">
+    <entry file="file://$PROJECT_DIR$/Aula_2_Basics/1_Basics/3_Decisions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_2/1_Basics/4_Iteration.py">
+    <entry file="file://$PROJECT_DIR$/Aula_2_Basics/1_Basics/4_Iteration.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_2/2_Exercicio/2_Exercicio">
+    <entry file="file://$PROJECT_DIR$/Aula_2_Basics/2_Exercicio/2_Exercicio">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="85" lean-forward="false" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="85" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/6_Exercicio/1_Respota_Exercicio.py">
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/6_Exercicio/1_Respota_Exercicio.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="17" column="85" lean-forward="false" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Imports/users_pack/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Imports/users_pack/user_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Imports/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/users_package/UserClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/users_package/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3_1/users_aux/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3_1/users_aux/UserAux.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3_1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Exercicio/Exercicio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3_1/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_1/6_Exercicio/1_Exercicio">
+    <entry file="file://$PROJECT_DIR$/Aula_3/4_Imports/users_pack/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3/4_Imports/users_pack/user_class.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3/4_Imports/main.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/main.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/users_package/UserClass.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/users_package/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3/4_Import/main.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3_1/users_aux/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3_1/users_aux/UserAux.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3_1/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3/4_Exercicio/Exercicio.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3_1/main.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_1_Introduction/6_Exercicio/1_Exercicio">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="114" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3_1/UserClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/4_Exercicio/3_Exercicio">
+    <entry file="file://$PROJECT_DIR$/Aula_3_1/UserClass.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_3_Introduction_OOP/4_Exercicio/3_Exercicio">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="77" lean-forward="true" selection-start-line="0" selection-start-column="77" selection-end-line="0" selection-end-column="77" />
-          <folding />
+          <caret line="0" column="77" lean-forward="false" selection-start-line="0" selection-start-column="77" selection-end-line="0" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/1_Class/user_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/2_Constructor/user_class.py">
+    <entry file="file://$PROJECT_DIR$/Aula_3_Introduction_OOP/2_Constructor/user_class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/uso_funcoes_matematicas.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/tap_ifsul_functions/setup.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/tap_ifsul_functions/messages/funcoes_mensagens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_3_Introduction_OOP/3_DocString/user_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_3_Introduction_OOP/1_Class/user_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_3_Introduction_OOP/teste.py" />
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/tap_ifsul_functions/funcoes_matematicas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3/3_DocString/user_class.py">
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/Readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/uso_funcoes_matematicas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/funcoes_matematicas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/uso_pacote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/package/funcoes_matematicas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/package/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/package/sub_package/basicos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
