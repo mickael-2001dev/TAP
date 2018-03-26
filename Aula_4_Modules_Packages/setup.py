@@ -11,11 +11,11 @@ setup(
 )
 
 
-# Comando para geração do arquivo distribuivel
-# no mesmo diretório do arquivo setup.py executar o seguinte comando
+# Comando para geração do arquivo a ser distribuído
+# No mesmo diretório do arquivo setup.py executar o seguinte comando
 # python setup.py sdist
 # Será gerado o arquivo ../dist/tapifsul-1.0.0.0.0.tar.gz
-#entrar em /dist
+# entrar em /dist .... cd dist
 # pip3 install tapifsul-1.0.0.0.0.tar.gz
 # Removendo o pacote
 # pip3 uninstall tapifsul
