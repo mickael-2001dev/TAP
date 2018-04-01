@@ -1,0 +1,38 @@
+1 – Crie uma classe em Python chamada Acumulador, que encapsule um valor usado para contagem de itens ou eventos. A classe deve oferecer os seguintes métodos:
+
+    Zerar;
+    Incrementar;
+    Retornar o valor do contador.
+
+2 - Com a finalidade de representar funcionários em uma Empresa, crie uma classe chamada Funcionário que possui as três informações como atributos:
+
+    um nome,
+    um sobrenome,
+    um salário mensal.
+
+A classe deve ter um construtor que inicializa os três atributos. Forneça um método set e get para cada atributo.
+Se o salário não for positivo, coloque o valor padrão como 0.0. Escreva um programa que teste o funcionamento da classe.
+Crie três instâncias da classe e exiba o salário anual de cada instância.
+De a cada empregado um aumento de 11%, exiba novamente o salário anual de cada um.
+
+3 – Escreva uma classe em Python chamada Estado. Um estado possui nome e é composto por um conjunto de municípios. Programe também os membros da classe a seguir:
+
+    Construtor que inicialize o nome do estado;
+    Um método que permita adicionar município ao estado;
+    Um método que retorne a dimensão (área), total do estado;
+    Um método que retorne a população total do estado;
+    Um método que retorne o menor (área), município do estado;
+    Um método que retorne o maior (área), município do estado;
+    Um método que retorne o município com maior população;
+    Um método que retorne o município com menor população;
+    Um método que retorne a diferença entre o maior e menor município.
+
+4 - Conta Salário
+
+Uma conta salário possui número, agência, saldo, limite, um identificador se é especial ou não, um conjunto de transações.
+Um método para retirar valores da conta (debitar).
+Verifique se o valora a ser retirado é menor ou igual ao saldo somado o limite informado.
+Um método para creditar valores da conta.
+Para cada movimentação na conta (credito ou débito), crie uma transação informando: o valor, o tipo e a descrição.
+Um método para imprimir as informações da conta.
+
