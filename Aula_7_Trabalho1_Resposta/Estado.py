@@ -28,11 +28,11 @@ class Estado:
     def maior_municipio(self):
         pass
 
-estado = Estado("Rio Grande do Sul","RS","Olivio Dutra",1000000)
-estado.incluir_municipio("Livramento",1000,1000)
-estado.incluir_municipio("Livramento",1000,1000)
-estado.incluir_municipio("Livramento2",1000,100)
-estado.incluir_municipio("Livramento3",1000,45100)
+estado = Estado("Rio Grande do Sul", "RS", "Olivio Dutra", 1000000)
+estado.incluir_municipio("Livramento", 1000, 1000)
+estado.incluir_municipio("Livramento", 1000, 1000)
+estado.incluir_municipio("Livramento2", 1000, 100)
+estado.incluir_municipio("Livramento3", 1000, 45100)
 print(estado.total_habitantes())
 estado.distribuir_orcamento()
 print(estado.menor_municipio())
