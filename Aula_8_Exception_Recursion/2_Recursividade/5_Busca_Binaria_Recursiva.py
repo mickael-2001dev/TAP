@@ -2,6 +2,7 @@ from random import *
 import time
 import sys
 
+
 def binary_search(data, buscando, low, high):
     if low > high:
         return False
@@ -11,12 +12,12 @@ def binary_search(data, buscando, low, high):
         if data[mid] == buscando:
             return True
         elif buscando < data[mid]:
-            return binary_search(data, buscando, low, mid)
+            return binary_search(data, buscando, low, mid-1)
         else:
             return binary_search(data, buscando, mid+1, high)
 
 
-numeros = []
+numeros = [50000]
 sys.setrecursionlimit(100000000)
 
 for v in range(1, 10000000):

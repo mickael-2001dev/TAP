@@ -1,6 +1,4 @@
-
 # Disparando uma exception
-
 # raise ValueError("Valor não pode ser negativo")
 
 
@@ -10,8 +8,6 @@ def sum_number(number):
     elif number < 0:
         raise ValueError('number é negativo')
     return number + 10
-
-
 
 
 try:
