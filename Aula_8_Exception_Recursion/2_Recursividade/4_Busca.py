@@ -7,7 +7,7 @@ for v in range(1, 10000000):
     numeros.append(randint(1, 10000000))
 
 numeros.sort()
-print(numeros)
+print(numeros[950000])
 
 
 num = int(input("Digite o número:"))

@@ -1,0 +1,9 @@
+setup.py
+tap_ifsul_functions/__init__.py
+tap_ifsul_functions/funcoes_matematicas.py
+tap_ifsul_functions/messages/__init__.py
+tap_ifsul_functions/messages/funcoes_mensagens.py
+tapifsul.egg-info/PKG-INFO
+tapifsul.egg-info/SOURCES.txt
+tapifsul.egg-info/dependency_links.txt
+tapifsul.egg-info/top_level.txt
