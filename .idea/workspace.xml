@@ -4,17 +4,14 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ed87981-1bbd-4ccc-b00b-baa7f01f8469" name="Melhorias no codigo fonte" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula_9_Stack_Queues/Exercicio/1_Exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_9_Stack_Queues/Queues/Queues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_9_Stack_Queues/Queues/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_9_Stack_Queues/__init__.py" afterDir="false" />
+    <list default="true" id="6ed87981-1bbd-4ccc-b00b-baa7f01f8469" name="Melhorias no codigo fonte" comment="Melhorias no codigo fonte">
+      <change afterPath="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List/Node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List/SinglyLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Usage/UsingLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Usage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/X_Test/Test.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/X_Test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_9_Stack_Queues/Exercicio/__init__.py" afterDir="false" />
     </list>
     <list id="5efe96b0-af39-4af5-ae36-c8550713bcda" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,51 +24,82 @@
     <session id="-1289562763">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="py" value="1860" />
+          <entry key="py" value="3756" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="1860" />
+          <entry key="Python" value="3756" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Example.py">
+        <entry file="file://$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List/SinglyLinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="690">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <marker date="1535206180446" expanded="true" signature="94:1383" ph="..." />
+                <marker date="1535206180446" expanded="true" signature="223:228" ph="..." />
+                <marker date="1535206180446" expanded="true" signature="525:530" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Usage/UsingLinkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_3_Introduction_OOP/3_DocString/user_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Exercicio/1_Exercicio.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List/Node.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <marker date="1535203845373" expanded="true" signature="12:17" ph="..." />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -87,7 +115,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>print</find>
+      <find>string</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -96,11 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Aula_3_1/__init__.py" />
-        <option value="$PROJECT_DIR$/Aula_3/4_Exercicio/main.py" />
-        <option value="$PROJECT_DIR$/Aula_3_1/UserClass.py" />
-        <option value="$PROJECT_DIR$/Aula_1/6_Exercicio/1_Exercicio" />
-        <option value="$PROJECT_DIR$/Aula_3/4_Exercicio/3_Exercicio" />
         <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/funcoes_matematicas.py" />
         <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/uso_funcoes_matematicas.py" />
         <option value="$PROJECT_DIR$/Aula_4_Modules_Packages/uso_funcoes_matematicas.py" />
@@ -147,6 +174,11 @@
         <option value="$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Class.py" />
         <option value="$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Example.py" />
         <option value="$PROJECT_DIR$/Aula_9_Stack_Queues/Exercicio/1_Exercicio.py" />
+        <option value="$PROJECT_DIR$/Aula_9_Stack_Queues/Queues/Node.py" />
+        <option value="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/1_Singly_Linked_List/Node.py" />
+        <option value="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/1_Singly_Linked_List/SinglyLinkedList.py" />
+        <option value="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List/SinglyLinkedList.py" />
+        <option value="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Usage/UsingLinkedList.py" />
       </list>
     </option>
   </component>
@@ -164,7 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,27 +203,11 @@
               <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
               <item name="TAP" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAP" type="462c0819:PsiDirectoryNode" />
-              <item name="Aula_9_Stack_Queues" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAP" type="462c0819:PsiDirectoryNode" />
-              <item name="Aula_9_Stack_Queues" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAP" type="462c0819:PsiDirectoryNode" />
-              <item name="Aula_9_Stack_Queues" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,19 +217,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Aula_9_Stack_Queues" />
-      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_8_Exception_Recursion\2_Recursividade" />
-      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_6_List_Tuple_Dictionary\4_Exercicios" />
-      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_5_OOP\1_Private" />
-      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_3\4_Import" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_5_OOP\7_Exercicios" />
       <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_5_OOP\5_Super" />
       <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_5_OOP\3_Override_Method" />
       <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_4_Modules_Packages\2_Exercicio" />
       <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_4_Modules_Packages\tap_ifsul_functions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/1_Singly_Linked_List" />
+      <recent name="$PROJECT_DIR$/Aula_9_Stack_Queues" />
+      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_8_Exception_Recursion\2_Recursividade" />
+      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_6_List_Tuple_Dictionary\4_Exercicios" />
+      <recent name="C:\Users\silvi\Dropbox\cs\ifsul\materias\TOPICOS\TAP\Aula_5_OOP\1_Private" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -229,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1_Exercicio (1)">
+  <component name="RunManager" selected="Python.UsingLinkedList">
     <configuration name="1_Exercicio (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TAP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1_Exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SinglyLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TAP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,32 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_9_Stack_Queues/3_Exercicio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_9_Stack_Queues/3_Exercicio/1_Exercicio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TAP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_9_Stack_Queues_Double_Ended_Queues/1_Stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_9_Stack_Queues_Double_Ended_Queues/1_Stack/Stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List/SinglyLinkedList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,20 +329,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="UsingLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TAP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Usage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Usage/UsingLinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Stack" />
-      <item itemvalue="Python.1_Exercicio" />
       <item itemvalue="Python.1_Exercicio (1)" />
       <item itemvalue="Python.Stack_Example" />
       <item itemvalue="Python.Stack_Example (1)" />
+      <item itemvalue="Python.SinglyLinkedList" />
+      <item itemvalue="Python.UsingLinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.UsingLinkedList" />
+        <item itemvalue="Python.SinglyLinkedList" />
         <item itemvalue="Python.1_Exercicio (1)" />
         <item itemvalue="Python.Stack_Example (1)" />
         <item itemvalue="Python.Stack_Example" />
-        <item itemvalue="Python.1_Exercicio" />
-        <item itemvalue="Python.Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528758769258</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Melhorias no codigo fonte">
+      <created>1534118534063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534118534063</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -387,20 +409,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1366" height="698" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25081968" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25688756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32837406" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4863388" visible="true" weight="0.22378379" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49943247" weight="0.39285713" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48603058" weight="0.5721831" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49868214" weight="0.39204547" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32933104" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5136612" side_tool="true" visible="true" weight="0.22378379" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5139694" side_tool="true" weight="0.39886364" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32418525" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32933104" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32933104" />
@@ -435,6 +456,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Melhorias no codigo fonte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Melhorias no codigo fonte" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <default-breakpoints>
@@ -447,11 +472,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/typing.py" />
-    <entry file="file://$PROJECT_DIR$/Aula_7_Trabalho1_Resposta/exemplo.txt" />
-    <entry file="file://$PROJECT_DIR$/Aula_7_Trabalho1_Resposta/test.py" />
-    <entry file="file://$PROJECT_DIR$/Aula_8_Exception_Recursion/1_Exception/1_Raising_Exception.ipynb" />
     <entry file="file://$PROJECT_DIR$/Aula_8_Exception_Recursion/2_Recursividade/1_Fatorial.ipynb" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1104914750/builtins.py" />
     <entry file="file://$PROJECT_DIR$/Aula_8_Exception_Recursion/1_Exception/__init__.py">
@@ -616,20 +636,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/X_Test/Test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/X_Test/Test.ipynb" />
     <entry file="file://$PROJECT_DIR$/Aula_7_Trabalho1_Resposta/Estado.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -640,30 +647,27 @@
     <entry file="file://$PROJECT_DIR$/Aula_8_Exception_Recursion/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Exercicio/1_Exercicio.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Queues/Queues.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding>
-            <marker date="1534116078539" expanded="true" signature="15:20" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_3_Introduction_OOP/3_DocString/user_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/uso_funcoes_matematicas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -674,29 +678,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Class.py">
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/1_Module/uso_funcoes_matematicas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Stack/Stack_Example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_9_Stack_Queues/Exercicio/1_Exercicio.py">
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/uso_pacote.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/package/funcoes_matematicas.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/tap_ifsul_functions/messages/funcoes_mensagens.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_4_Modules_Packages/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_3_Introduction_OOP/3_DocString/user_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List/SinglyLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <marker date="1535206180446" expanded="true" signature="94:1383" ph="..." />
+            <marker date="1535206180446" expanded="true" signature="223:228" ph="..." />
+            <marker date="1535206180446" expanded="true" signature="525:530" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Usage/UsingLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_10_Singly_Linked_Lists/Singly_Linked_List/Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <marker date="1535203845373" expanded="true" signature="12:17" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
